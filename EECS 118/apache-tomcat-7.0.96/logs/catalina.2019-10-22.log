@@ -1,0 +1,373 @@
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13.0.1
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13.0.1+9
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\conf\logging.properties
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\temp
+Oct 22, 2019 4:54:23 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\ProgramData\chocolatey\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alex\AppData\Local\Microsoft\WindowsApps;.
+Oct 22, 2019 4:54:23 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 4:54:23 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 427 ms
+Oct 22, 2019 4:54:23 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 22, 2019 4:54:23 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 22, 2019 4:54:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs
+Oct 22, 2019 4:54:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs has finished in 347 ms
+Oct 22, 2019 4:54:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples has finished in 908 ms
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager has finished in 52 ms
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager has finished in 56 ms
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT has finished in 38 ms
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test has finished in 37 ms
+Oct 22, 2019 4:54:25 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 4:54:25 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 4:54:25 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1505 ms
+Oct 22, 2019 4:55:22 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918.py", line 8]
+Oct 22, 2019 4:55:22 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("<form> Input Image 1:<input type = "image" name = "image1"> Input Image 2:<input type = "image" name = "image2"> </form>")]
+Oct 22, 2019 4:55:22 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                                   ^]
+Oct 22, 2019 4:55:22 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: invalid syntax]
+Oct 22, 2019 4:55:22 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 22, 2019 4:55:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918.py", line 6]
+Oct 22, 2019 4:55:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("<form> Input Image 1:<input type = "image" name = "image1"> Input Image 2:<input type = "image" name = "image2"> </form>")]
+Oct 22, 2019 4:55:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                                   ^]
+Oct 22, 2019 4:55:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: invalid syntax]
+Oct 22, 2019 4:55:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918.py", line 16]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    """]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [      ^]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: Missing parentheses in call to 'print'. Did you mean print("""]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [<form> ]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: []
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Input Image 1:]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [<input type = "image" name = "image1"> ]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: []
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Input Image 2:]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [<input type = "image" name = "image2"> ]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [</form>]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [""")?]
+Oct 22, 2019 4:57:20 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [13] lines on stderr
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13.0.1
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13.0.1+9
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\conf\logging.properties
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\temp
+Oct 22, 2019 4:59:45 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\ProgramData\chocolatey\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alex\AppData\Local\Microsoft\WindowsApps;.
+Oct 22, 2019 4:59:45 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 4:59:45 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 314 ms
+Oct 22, 2019 4:59:45 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 22, 2019 4:59:45 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 22, 2019 4:59:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs has finished in 299 ms
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples has finished in 266 ms
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager has finished in 42 ms
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager has finished in 56 ms
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT has finished in 34 ms
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test has finished in 58 ms
+Oct 22, 2019 4:59:46 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 4:59:46 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 4:59:46 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 808 ms
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918.py", line 4, in <module>]
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    fileitem = form['file']]
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\AppData\Local\Programs\Python\Python36\lib\cgi.py", line 609, in __getitem__]
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise KeyError(key)]
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: 'file']
+Oct 22, 2019 5:26:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [6] lines on stderr
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918_part2.py", line 14, in <module>]
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("<p>Test:", form["image1name"].value)]
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\AppData\Local\Programs\Python\Python36\lib\cgi.py", line 609, in __getitem__]
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise KeyError(key)]
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: 'image1name']
+Oct 22, 2019 6:08:47 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [6] lines on stderr
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62339918_part2.py", line 14, in <module>]
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("<p>Test:", form["image1name"].value)]
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\Alex\AppData\Local\Programs\Python\Python36\lib\cgi.py", line 609, in __getitem__]
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise KeyError(key)]
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: 'image1name']
+Oct 22, 2019 6:08:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [6] lines on stderr
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jre1.8.0_144
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\conf\logging.properties
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 22, 2019 7:34:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\temp
+Oct 22, 2019 7:34:54 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice;C:\OrCAD\OrCAD_16.6_Lite\tools\Capture;C:\OrCAD\OrCAD_16.6_Lite\tools\bin;C:\OrCAD\OrCAD_16.6_Lite\OpenAccess\bin\win32\opt;C:\OrCAD\OrCAD_16.6_Lite\tools\fet\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\tempuser\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\tempuser\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;.
+Oct 22, 2019 7:34:56 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 7:34:56 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 7:34:56 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2750 ms
+Oct 22, 2019 7:34:56 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 22, 2019 7:34:56 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 22, 2019 7:34:56 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs
+Oct 22, 2019 7:34:57 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [328] milliseconds.
+Oct 22, 2019 7:34:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs has finished in 1,062 ms
+Oct 22, 2019 7:34:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples has finished in 4,063 ms
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager has finished in 157 ms
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager has finished in 171 ms
+Oct 22, 2019 7:35:01 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT
+Oct 22, 2019 7:35:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT has finished in 94 ms
+Oct 22, 2019 7:35:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test
+Oct 22, 2019 7:35:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test has finished in 94 ms
+Oct 22, 2019 7:35:02 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 22, 2019 7:35:02 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 22, 2019 7:35:02 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5910 ms
+Oct 22, 2019 7:35:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: Cannot run program "C:\Users\Alex\AppData\Local\Programs\Python\Python36\python.exe" (in directory "C:\Users\tempuser\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi"): CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(Unknown Source)
+	at java.lang.Runtime.exec(Unknown Source)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1678)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(Unknown Source)
+	at java.lang.ProcessImpl.start(Unknown Source)
+	... 26 more
+

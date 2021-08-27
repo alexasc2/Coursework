@@ -1,0 +1,7 @@
+t/f
+multiple choice
+problem solving 
+
+everything after midterm
+process sync(pseudocode)
+CPU scheduling only rm & edf 

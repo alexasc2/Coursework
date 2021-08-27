@@ -1,0 +1,248 @@
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13.0.1
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13.0.1+9
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Alex\Desktop\apache-tomcat-7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Alex\Desktop\apache-tomcat-7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Alex\Desktop\apache-tomcat-7.0.96\conf\logging.properties
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Alex\Desktop\apache-tomcat-7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Alex\Desktop\apache-tomcat-7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Alex\Desktop\apache-tomcat-7.0.96\temp
+Oct 21, 2019 6:09:51 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\ProgramData\chocolatey\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alex\AppData\Local\Microsoft\WindowsApps;;.
+Oct 21, 2019 6:09:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:09:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 479 ms
+Oct 21, 2019 6:09:51 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 21, 2019 6:09:51 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 21, 2019 6:09:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\docs
+Oct 21, 2019 6:09:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\docs has finished in 490 ms
+Oct 21, 2019 6:09:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\examples
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\examples has finished in 1,045 ms
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\host-manager
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\host-manager has finished in 74 ms
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\manager
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\manager has finished in 73 ms
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\ROOT
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Desktop\apache-tomcat-7.0.96\webapps\ROOT has finished in 56 ms
+Oct 21, 2019 6:09:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:09:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:09:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1829 ms
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13.0.1
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13.0.1+9
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\conf\logging.properties
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\temp
+Oct 21, 2019 6:35:08 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\ProgramData\chocolatey\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alex\AppData\Local\Microsoft\WindowsApps;;.
+Oct 21, 2019 6:35:08 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:35:08 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 525 ms
+Oct 21, 2019 6:35:08 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 21, 2019 6:35:08 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs
+Oct 21, 2019 6:35:08 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [106] milliseconds.
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs has finished in 386 ms
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples has finished in 296 ms
+Oct 21, 2019 6:35:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager has finished in 65 ms
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager has finished in 63 ms
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT has finished in 54 ms
+Oct 21, 2019 6:35:09 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:35:09 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:35:09 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 932 ms
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13.0.1
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13.0.1+9
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\conf\logging.properties
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\temp
+Oct 21, 2019 6:49:17 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\ProgramData\chocolatey\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Alex\AppData\Local\Programs\Python\Python36\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alex\AppData\Local\Microsoft\WindowsApps;;.
+Oct 21, 2019 6:49:17 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:49:17 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 422 ms
+Oct 21, 2019 6:49:17 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 21, 2019 6:49:17 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs
+Oct 21, 2019 6:49:17 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [103] milliseconds.
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\docs has finished in 375 ms
+Oct 21, 2019 6:49:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\examples has finished in 340 ms
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\host-manager has finished in 77 ms
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\manager has finished in 72 ms
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\ROOT has finished in 49 ms
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Alex\Documents\Cloud\School\EECS 118\apache-tomcat-7.0.96\webapps\test has finished in 59 ms
+Oct 21, 2019 6:49:18 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 21, 2019 6:49:18 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 21, 2019 6:49:18 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1037 ms

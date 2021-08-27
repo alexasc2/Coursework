@@ -1,0 +1,6 @@
+Nov 21, 2019 12:03:37 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\Alex\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1265, "Data truncated for column 'link' at row 1")]
+Nov 21, 2019 12:03:37 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 21, 2019 12:03:37 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr

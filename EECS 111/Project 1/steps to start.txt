@@ -1,0 +1,11 @@
+1- Install VirtualBox: https://www.virtualbox.org/wiki/Downloads
+2- Install Linux on VirtualBox: https://www.ubuntu.com/download/desktop
+3- Make your virtual linux enviroment ready:
+	install the essential tools for building projects: sudo apt-get install build-essential
+	install the guest essential tools on the linux: In the virtual box toolbar insert, Device/Insert Guest Additions CD Image ...
+	share a folder between the Host and Gues OSs
+	give the required permission in the guest to access the shared folder: ﻿sudo adduser [username] vboxsf
+	restart the guest Ubuntu
+	
+4- Learn how does MakeFile s work: http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+
